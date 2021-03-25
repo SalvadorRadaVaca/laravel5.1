@@ -1,0 +1,1 @@
+Sigue la liga para resetear tu contraseña {{ url('contra/resetear/'.$token) }}
